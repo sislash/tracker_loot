@@ -1,0 +1,438 @@
+; ============================================================
+;  markup.ini - Markup estimation (Entropia Universe)
+;  type = percent | tt_plus
+;  Valeur = multiplicateur TT
+;  Exemple:
+;    140.00 = 14.000% 
+;    1.00   = 100% (TT)
+;    1.025  = 102.5%
+;    1.10   = 110%
+; ============================================================
+;  markup.ini - Entropia Universe
+;  Base large inspirée des catégories de loot EntropiaWiki
+;  Format compatible avec ton parser C
+; ============================================================
+
+; ============================================================
+; SWEET
+; ============================================================
+
+[Vibrant Sweat]
+type  = percent
+value = 1.00
+
+[Diluted Sweat]
+type  = percent
+value = 1.0405
+
+; ============================================================
+; FRUIT
+; ============================================================
+
+[Papplon]
+type  = percent
+value = 45.357
+
+[Bombardo]
+type  = percent
+value = 43.5109
+
+[Caroot]
+type  = percent
+value = 42.8266
+
+; ============================================================
+; AMMO / CURRENCY / CONVERSIONS
+; ============================================================
+
+[Universal Ammo]
+type  = percent
+value = 1.00
+
+[Shrapnel]
+type  = percent
+value = 1.0094
+
+
+; ============================================================
+; OILS / RESIDUES (loot universel)
+; ============================================================
+
+[Animal Oil Residue]
+type  = percent
+value = 1.025
+
+[Animal Muscle Oil]
+type  = percent
+value = 1.0157
+
+[Animal Eye Oil]
+type  = percent
+value = 1.0198
+
+[Animal Adrenal Oil]
+type  = percent
+value = 1.0085
+
+[Animal Spleen Oil]
+type  = percent
+value = 1.0267
+
+[Animal Thyroid Oil ]
+type  = percent
+value = 1.0079
+
+[Animal Liver Oil ]
+type  = percent
+value = 1.0089
+
+; ============================================================
+; HIDES / WOOL / ORGANICS
+; ============================================================
+
+[Soft Hide]
+type  = percent
+value = 1.0160
+
+[Animal Hide]
+type  = percent
+value = 1.0901
+
+[Fine Hide]
+type  = percent
+value = 1.0402
+
+[Fine Wool]
+type  = percent
+value = 1.0877
+
+[Thin Wool]
+type  = percent
+value = 1.0118
+
+[Wool]
+type  = percent
+value = 1.0490
+
+; ============================================================
+; SKIN
+; ============================================================
+
+[Daikiba Skin]
+type  = percent
+value = 1.0965
+
+[Argonaut Skin]
+type  = percent
+value = 1.2865
+
+[Mourner Skin]
+type  = percent
+value = 1.3836
+
+; ============================================================
+; EXTRACTOR
+; ============================================================
+
+[Second-Rate Cloth Extractor]
+type  = percent
+value = 1.0788
+
+[Advanced Stone Extractor]
+type  = percent
+value = 1.1934
+
+[Basic Stone Extractor]
+type  = percent
+value = 1.5085
+
+[WEAK Cloth Extractor]
+type  = percent
+value = 1.2442
+
+[Diluted Cloth Extractor]
+type  = percent
+value = 1.0961
+
+[Diluted Mineral Extractor]
+type  = percent
+value = 7.7670
+
+; ============================================================
+; HAIR STYLE
+; ============================================================
+
+[Hair Gel]
+type  = percent
+value = 1.0244
+
+; ============================================================
+; FRAGMENT
+; ============================================================
+
+[Nova Fragment]
+type  = percent
+value = 233.747
+
+[Blazar Fragment]
+type  = percent
+value = 375.185
+
+; ============================================================
+; ELECTRONIQUE COMPONENT
+; ============================================================
+
+[Bio ID Verification]
+type  = percent
+value = 1.0179
+
+[Electronic Stabilizing Component]
+type  = percent
+value = 1.0289
+
+[High Speed Control Component]
+type  = percent
+value = 1.0763
+
+[Surface Hardener Component]
+type  = percent
+value = 1.0500
+
+; ============================================================
+; SOCKET
+; ============================================================
+
+[Socket 5 Component]
+type  = percent
+value = 1.0174
+
+[Socket 6 Component]
+type  = percent
+value = 1.0481
+
+[Tier 1 Component]
+type  = percent
+value = 1.1076
+
+[Tier 2 Component]
+type  = percent
+value = 1.3886
+
+; ============================================================
+; ENMATTERS 
+; ============================================================
+
+[Nexus]
+type  = percent
+value = 1.01
+
+[Force Nexus]
+type  = percent
+value = 1.00
+
+[Growth Molecules]
+type  = percent
+value = 1.00
+
+[Energy Matter Residue]
+type  = percent
+value = 1.00
+
+; ============================================================
+; ORES / STONES
+; ============================================================
+
+[Crude Oil]
+type  = percent
+value = 1.0434
+
+[Lysterium Stone]
+type  = percent
+value = 1.01
+
+[Narcense Stone]
+type  = percent
+value = 1.01
+
+[Iron Stone]
+type  = percent
+value = 1.01
+
+[Copper Stone]
+type  = percent
+value = 1.01
+
+[Zinc Stone]
+type  = percent
+value = 1.01
+
+[Lead Stone]
+type  = percent
+value = 1.01
+
+[Tin Stone]
+type  = percent
+value = 1.01
+
+[Durulium Stone]
+type  = percent
+value = 1.01
+
+[Belkar Stone]
+type  = percent
+value = 1.01
+
+; ============================================================
+; ROBOT LOOT / ELECTRONICS
+; ============================================================
+
+[Robot Buffers]
+type  = percent
+value = 1.0217
+
+[Robot Optical Len]
+type  = percent
+value = 1.0330
+
+[Robot Low-Loss Link Cable]
+type  = percent
+value = 1.0236
+
+[Robot Components]
+type  = percent
+value = 1.01
+
+[Robot Heat Sinks]
+type  = percent
+value = 1.0245
+
+[Electronic Parts]
+type  = percent
+value = 1.01
+
+[Power Systems]
+type  = percent
+value = 1.01
+
+[Conductors]
+type  = percent
+value = 1.01
+
+[Wires]
+type  = percent
+value = 1.01
+
+[Metal Residue]
+type  = percent
+value = 1.00
+
+; ============================================================
+; COMMON CRAFT COMPONENTS
+; ============================================================
+
+[Basic Filters]
+type  = percent
+value = 1.01
+
+[Basic Wires]
+type  = percent
+value = 1.01
+
+[Simple Conductors]
+type  = percent
+value = 1.01
+
+[Basic Coils]
+type  = percent
+value = 1.02
+
+[Simple Plastic Ruds]
+type  = percent
+value = 1.00
+
+[Simple I Conductors]
+type  = percent
+value = 1.00
+
+[Simple I Plastic Ruds]
+type  = percent
+value = 1.00
+
+
+; ============================================================
+; TEXTURES / PAINT / DECOR
+; ============================================================
+
+[Texture]
+type  = percent
+value = 1.00
+
+[Paint Can (orange)]
+type  = percent
+value = 1.4000
+
+[Paint Can (Blue)]
+type  = percent
+value = 1.4000
+
+[Paint Can (Yellow)]
+type  = percent
+value = 1.2384
+
+[Paint Can (Navy)]
+type  = percent
+value = 1.1377
+
+
+; ============================================================
+; WEAPONS / ARMOR / ENHANCERS
+; ============================================================
+
+[Armor Part]
+type  = percent
+value = 1.00
+
+[Enhancer]
+type  = percent
+value = 1.00
+
+
+; ============================================================
+; SKILLS / IMPLANTS / TOKENS
+; ============================================================
+
+[Skill Implant]
+type  = percent
+value = 1.00
+
+[Mayhem Token]
+type  = percent
+value = 1.00
+
+[Strongbox]
+type  = percent
+value = 1.00
+
+; ============================================================
+; MISC QUEST / SPECIAL ITEMS
+; ============================================================
+
+[Calypso Bone Sample]
+type  = percent
+value = 1.00
+
+[Time Travel Crystal]
+type  = percent
+value = 1.00
+
+[Dr. Almon Duchev Log Part 1]
+type  = percent
+value = 1.00
+
+; ============================================================
+; FALLBACK (handled in code)
+; If item not found:
+;   type = percent
+;   value = 1.00
+; ============================================================
+

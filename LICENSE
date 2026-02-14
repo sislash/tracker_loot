@@ -1,0 +1,166 @@
+license_bilingual = """=====================================================================
+LICENCE PROPRIETAIRE / PROPRIETARY LICENSE
+TRACKER MODULAIRE - ENTROPIA UNIVERSE
+=====================================================================
+
+Copyright (c) 2026
+Megnoux Xavier
+Tous droits reserves / All rights reserved.
+
+Date d'entree en vigueur / Effective date: 2026-01-31
+
+=====================================================================
+FRANCAIS
+=====================================================================
+
+1) Definitions
+- " Logiciel " : le projet "Tracker Modulaire", incluant notamment le code
+  source, les executables, bibliotheques, scripts, fichiers de
+  configuration, documentation et ressources associees.
+- " Auteur " : le titulaire des droits sur le Logiciel.
+- " Vous " / " Utilisateur " : toute personne physique ou morale qui
+  accede au Logiciel.
+
+2) Octroi de licence (usage limite)
+Sous reserve du respect de la presente licence, l'Auteur vous accorde une
+licence :
+- non exclusive,
+- non transferable,
+- non sous-licenciable,
+- revocable,
+
+vous autorisant uniquement a :
+a) utiliser et executer le Logiciel a des fins PERSONNELLES et NON
+   COMMERCIALES ;
+b) conserver une (1) copie du Logiciel a des fins de sauvegarde
+   personnelle.
+
+Tout droit non expressement accorde est reserve a l'Auteur.
+
+3) Interdictions
+Sauf autorisation ecrite prealable de l'Auteur, il est strictement
+interdit de :
+a) copier, publier, distribuer, redistribuer, ou mettre a disposition le
+   Logiciel (en tout ou partie), y compris via depot public (GitHub,
+   GitLab, etc.), site web, marketplace, ou partage de fichiers ;
+b) vendre, louer, sous-licencier, ou exploiter commercialement le Logiciel
+   (directement ou indirectement), ou fournir un service a des tiers a
+   partir du Logiciel ;
+c) modifier, adapter, traduire, decompiler, desassembler, pratiquer de
+   l'ingenierie inverse, ou creer des oeuvres derivees du Logiciel, lorsque
+   ces modifications/oeuvres sont destinees a etre diffusees (meme
+   gratuitement) ;
+d) supprimer ou alterer toute mention de copyright, d'auteur, ou de
+   licence.
+
+4) Contributions (si applicable)
+Si vous transmettez volontairement a l'Auteur des correctifs, idees,
+ameliorations ou contributions (" Contributions "), vous acceptez que
+l'Auteur puisse les utiliser, integrer et exploiter dans le Logiciel
+sans obligation de remuneration ni d'attribution, sauf accord ecrit
+contraire.
+
+5) Resiliation
+La licence prend fin automatiquement en cas de violation de la presente
+licence.
+En cas de resiliation, vous devez :
+- cesser immediatement toute utilisation du Logiciel ;
+- supprimer toutes les copies du Logiciel en votre possession ou sous
+  votre controle.
+
+6) Absence de garantie
+LE LOGICIEL EST FOURNI " TEL QUEL " (" AS IS "), SANS AUCUNE GARANTIE,
+EXPRESSE OU IMPLICITE, Y COMPRIS (SANS S'Y LIMITER) LES GARANTIES DE
+QUALITE MARCHANDE, D'ADEQUATION A UN USAGE PARTICULIER ET
+D'ABSENCE DE CONTREFACON.
+Vous assumez l'integralite des risques lies a l'utilisation du Logiciel.
+
+7) Limitation de responsabilite
+DANS LES LIMITES AUTORISEES PAR LA LOI APPLICABLE, L'AUTEUR NE POURRA EN
+AUCUN CAS ETRE TENU RESPONSABLE DES DOMMAGES DIRECTS OU INDIRECTS,
+SPECIAUX, ACCESSOIRES OU CONSECUTIFS (NOTAMMENT PERTE DE DONNEES, PERTE
+DE PROFITS, INTERRUPTION D'ACTIVITE), RESULTANT DE L'UTILISATION OU DE
+L'IMPOSSIBILITE D'UTILISER LE LOGICIEL, MEME SI L'AUTEUR A ETE AVERTI DE
+LA POSSIBILITE DE TELS DOMMAGES.
+
+8) Divers
+- Si une disposition est jugee invalide ou inapplicable, les autres
+  dispositions demeurent en vigueur.
+- Les titres de section sont fournis pour la commodite et n'affectent pas
+  l'interpretation.
+
+=====================================================================
+ENGLISH
+=====================================================================
+
+1) Definitions
+- "Software": the "Tracker Modulaire" project, including (without
+  limitation) source code, executables, libraries, scripts, configuration
+  files, documentation, and related resources.
+- "Author": the copyright holder of the Software.
+- "You" / "User": any individual or legal entity accessing the Software.
+
+2) License grant (limited use)
+Subject to compliance with this license, the Author grants You a license
+that is:
+- non-exclusive,
+- non-transferable,
+- non-sublicensable,
+- revocable,
+
+authorizing You only to:
+a) use and run the Software for PERSONAL and NON-COMMERCIAL purposes;
+b) keep one (1) copy of the Software for personal backup purposes.
+
+All rights not expressly granted are reserved by the Author.
+
+3) Restrictions
+Unless You have prior written permission from the Author, You are
+strictly prohibited from:
+a) copying, publishing, distributing, redistributing, or making the
+   Software available (in whole or in part), including via public
+   repositories (GitHub, GitLab, etc.), websites, marketplaces, or file
+   sharing;
+b) selling, renting, sublicensing, or commercially exploiting the
+   Software (directly or indirectly), or providing services to third
+   parties using the Software;
+c) modifying, adapting, translating, decompiling, disassembling, reverse
+   engineering, or creating derivative works of the Software, where such
+   modifications/works are intended for distribution (even for free);
+d) removing or altering any copyright, author, or license notices.
+
+4) Contributions (if any)
+If You voluntarily submit fixes, ideas, improvements or contributions
+("Contributions") to the Author, You agree the Author may use, integrate,
+and exploit them in the Software without compensation or attribution,
+unless otherwise agreed in writing.
+
+5) Termination
+This license terminates automatically upon any breach.
+Upon termination, You must:
+- immediately stop using the Software;
+- delete all copies of the Software under Your possession or control.
+
+6) Disclaimer of warranty
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.
+You assume all risks associated with the use of the Software.
+
+7) Limitation of liability
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL THE
+AUTHOR BE LIABLE FOR ANY DIRECT, INDIRECT, SPECIAL, INCIDENTAL OR
+CONSEQUENTIAL DAMAGES (INCLUDING DATA LOSS, LOSS OF PROFITS, OR BUSINESS
+INTERRUPTION) ARISING FROM THE USE OF OR INABILITY TO USE THE SOFTWARE,
+EVEN IF THE AUTHOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+8) Miscellaneous
+- If any provision is held invalid or unenforceable, the remaining
+  provisions remain in full force.
+- Section headings are for convenience only and do not affect
+  interpretation.
+
+=====================================================================
+END OF LICENSE
+=====================================================================
+"""
